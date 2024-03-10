@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    {% include_cached preconnects.html %}
+    {% include_cached ga.html %}
+  	{% if page.title == "Home"%}
+	<title>Welcome to Walbottle Village Tenants &amp; Residents Association Website</title>
+	{% else %}
+  	<title>{{page.title}}</title>
+  	{% endif %}
+	
+	<meta name="keywords" content="{{page.keywords}}">
+
+	<!-- Favicon -->  
+        {% include_cached icons.html %}
+</script>
+    <!-- Bootstrap core CSS -->
+        {% include_cached styles.html %}
+        <style type="text/css">
+          #imageGallery img {margin:0 auto !important;}
+        </style>
+	<!-- OpenGraph -->
+	{% include_cached opengraph.html %}
+  
+	<meta property="og:image" content="{{page.OGimage}}">  
+  <!--handle seo-->
+  {% seo title=false %}
+</head>
+<body id="{{page.bodytag}}">
+  {%include mobile_icons.html%} <!--icons facebook and email for moblie-->
+  {%include nav.html%}	<!--main nav-->
+        {{content}}
+        {%include photoPanel.html%}
+        {% include_cached footer.html %}
+    {% include_cached loadjs.html %}
+    {% if page.bodytag == "home"%}
+      {% include_cached lightslider.html %}
+    {% endif %}
+  {% if page.gallery == true%}
+    {% include_cached gallery.html %}
+    {% endif %}
+	<style>
+		.lSAction > a {
+    width: 32px;
+    display: block;
+    top: 50%;
+    height: 32px;
+    background-image: url('../images/controls.png') !important;
+    cursor: pointer;
+    position: absolute;
+    z-index: 99;
+    margin-top: -16px;
+    opacity: 1;
+    -webkit-transition: opacity 0.35s linear 0s;
+    transition: opacity 0.35s linear 0s;
+}
+	</style>
+    <script type="text/javascript">
+      var _iub = _iub || [];
+      _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"floatingPreferencesButtonDisplay":"bottom-right","lang":"en-GB","perPurposeConsent":true,"siteId":3441148,"whitelabel":false,"cookiePolicyId":85654702, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"position":"bottom","rejectButtonDisplay":true,"showTitle":false }};
+      </script>
+      <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3441148.js"></script>
+      <script type="text/javascript" src="https://cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+</body>
+</html>
