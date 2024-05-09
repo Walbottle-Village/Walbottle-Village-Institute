@@ -8,7 +8,6 @@
 	a {color:#585556;-webkit-transition: color .3s; /* For Safari 3.0 to 6.0 */transition: color .3s; /* For modern browsers */}
 	.buttons a {background:rgba(255,255,255,.6);-webkit-transition: background .3s; /* For Safari 3.0 to 6.0 */transition: background .3s; /* For modern browsers */}
 	a:hover, a:visited {color:#000;}
-
 	.navbar {background:#caae8f;border:none;border-radius:0;box-shadow:0 0 6px 6px rgba(0,0,0,.3);border-bottom:1px solid #b79977;}
 	.navbar-header h1 {font-family: "Bebas Neue", sans-serif;font-weight:400;font-style: normal;color:#000;font-size:300%;padding-bottom:6px;padding-right:20px;}
 	.nav {font-family: "Bebas Neue", sans-serif;font-weight: 400;font-style: normal;color:#585556;font-size:220%;}
@@ -18,9 +17,7 @@
 	.navbar-nav>li:last-child a {padding-right:0;}
 	.navbar-nav>li a span {display:none;}
 	.navbar-nav>li a img {margin-top:-4px;width:24px;height:24px;}
-
 	#home .navbar-nav>li a.t-home, #events .navbar-nav>li a.t-events, #groups .navbar-nav>li a.t-group, #news .navbar-nav>li a.t-news, #hire .navbar-nav>li a.t-hire, #about .navbar-nav>li a.t-about, #contact .navbar-nav>li a.t-contact {color:#000;}
-
 	.buttons .row {position:absolute;height:75%;width:100%;}
 	.buttons .row div.t-events {width:40%;float:left;display:table-cell;align-content:center;}
 	.buttons .row div.t-hire {width:40%;float:right;display:table-cell;align-content:center;}
@@ -28,15 +25,12 @@
 	.buttons .row div.t-events a {position:absolute;bottom:0;left:60%;z-index:100;}
 	.buttons .row div.t-hire a {position:absolute;bottom:0;right:60%;z-index:100;}
 	.buttons a:hover {color:#000;background:rgba(255,255,255,.8);}
-
 	.intro {margin-top:-20px;padding-left:40px;padding-right:40px;background:#f2eae4;}
 	.intro h2 {font-size:150%;padding-top:16px;}
 	.intro p {font-size:130%;padding-bottom:20px;}
-
 	a.hire {font-family: "Bebas Neue", sans-serif;font-weight:400;font-style:normal;font-size:200%;letter-spacing:0;color:#fff;padding:15px 40px;display:inline-block;text-align:center;background:#caae8f;border:2px solid #fff;margin-top:40px;margin-left:85px;}
 	a.hire:hover, a.hire:visited {color:#000;}
 	iframe {margin-top:12px;}
-	
 	.group-list {margin-top:24px;margin-bottom:80px;position:relative;}
 	.eventWrap, .newsWrap {margin-left:40px;padding-bottom:24px;margin-bottom:60px;border-bottom:1px solid #000;}
 	.eventWrap:last-child, .newsWrap:last-child {border-bottom:none;}
@@ -54,7 +48,6 @@
 	.eventWrap a, .newsWrap a {color:#a17f5a;text-decoration:underline !important;}
 	.eventWrap a:hover, .eventWrap a:visited, .newsWrap a:hover, .newsWrap a:visited {color:#000;text-decoration:underline !important;}
 	.newsWrap p.date {text-transform:uppercase; font-size:100%;padding-bottom:10px;}
-
 	.policyWrap {margin:24px 0 60px 24px;padding-bottom:24px;}
 	.policyWrap p, .policyWrap li {font-size:120%;padding:0 0 16px;margin:0;}
 	.policyWrap h3 {font-size:120%;padding:0 0 8px;margin:0;}
@@ -65,7 +58,6 @@
 	.policyWrap li span {padding-right:30px;}
 	.policyWrap li a {padding-right:20px;}
 	.policyWrap li a img {display:none;}
-
 	.group-list .group-listings, .pdf-listings, .contact-listings {position:relative;padding-left:85px;}
 	.group-listings-wrap, .pdf-listings-wrap, .contact-listings-wrap {position:fixed;}
 	.group-listings h3, .pdf-listings h3, .contact-listings h3 {font-size:150%;padding:10px 0 16px;margin:0;}
@@ -75,23 +67,18 @@
 	.group-listings li a {padding-right:20px;background-image: url("../images/arrow-80.jpg"); background-repeat:no-repeat; background-size:8px;background-position:right center;}
 	.pdf-listings li a {padding:60px 0 60px 40px;background-image: url("../images/pdf-icon.jpg"); background-repeat:no-repeat; background-size:36px;background-position:left center;}
 	.group-listings-wrap ul li span, .pdf-listings ul li span {text-transform:uppercase; font-size:80%;}
-	
 	form {margin-bottom:40px;}
 	.map {padding-left:0;padding-right:0;}
 	.directions .form-control {z-index:10 !important;}
 	.form-directions {margin-bottom:80px;}
-
 	a.w3w span {color:#DA0003;}
-
 	.footer {position:fixed;bottom:0;width:100%; background:#caae8f;z-index:1000;}
 	.footer p {padding:16px 0 10px;}
 	.footer ul {padding:16px 0 10px;list-style-type:none;float:right;}
 	.footer li {float:left;border-right:1px solid #000;padding:0 5px;}
 	.footer li:last-child {border-right:none;padding:0 0 0 5px;}
 	.footer li a {}
-
 /* Map Canvas & Panel */
-
 #map-canvas {
 	width:100%;
 	height:auto;
@@ -128,12 +115,9 @@
 	text-decoration: underline;
 	color: #000;
 }
-
 /* .col-md */
 @media (min-width:992px) and (max-width:1199px){
-	
 }
-
 /* .col-sm */
 @media (min-width:768px) and (max-width:991px) {
 	.nav {font-family: "Bebas Neue", sans-serif;font-weight: 400;font-style: normal;color:#585556;font-size:200%;}
@@ -157,8 +141,6 @@
 	.fotorama__stage {margin-top:-80px;}
 	.fotorama__nav-wrap {margin-top:-80px;}
 }
-
-
 @media (min-width:768px) and (max-width:865px) {
 	.navbar-right {float:left !important;}
 	.navbar-nav>li {margin-top:0px;margin-bottom:15px;border-right:1px solid #7c7c7c;}
@@ -169,7 +151,6 @@
 	.footer ul {padding:0px 0 10px;list-style-type:none;float:left;}
 	.footer li:first-child {border-right:none;padding:0 5px 0 0;}
 }
-
 /* .col-xs */
 @media (max-width:767px){
 	.navbar-header h1 {padding-right:0px;padding-left:15px;font-size:250%;}
@@ -191,18 +172,14 @@
 	.fotorama__stage {margin-top:-40px;}
 	.fotorama__nav-wrap {margin-top:-30px;}
 	.article div, .newsWrap img, .eventWrap img {padding-right:0;}
-	
 	body#events a.hire, body#events a.hire, body#news a.hire, body#contact a.hire, body#privacy a.hire, body#siteMap a.hire {display:none;}
-	
 	.policyWrap {margin:24px 0 60px 0px;padding-bottom:24px;}
-	
 	.contact-listings-wrap, .pdf-listings-wrap {position:relative;}
 	.contact-listings {margin-bottom:24px;padding-left:15px;}
 	.contact-listings br {display:none;}
 	.header {margin-left:-5px;}
 	.pdf-listings {padding-left:15px;}
 	.pdf-listings ul {position:relative;margin-bottom:70px;}
-	
 	.footer p {padding:16px 0 0px;margin-bottom:0px;font-size:90%;}
 	.footer ul {padding:0px 0 16px;margin-bottom:0px;list-style-type:none;float:left;font-size:90%;}
 	.footer li:first-child {border-right:none;padding:0 5px 0 0;}
