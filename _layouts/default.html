@@ -1,48 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     {% include_cached preconnects.html %}
     {% include_cached ga.html %}
-  	{% if page.title == "Home"%}
-	<title>Welcome to Walbottle Village Institute, NE15 8JE &raquo; Home</title>
-	{% else %}
-  	<title>{{page.title}}</title>
-  	{% endif %}
-	
-	<meta name="keywords" content="{{page.keywords}}">
-
-	<!-- Favicon -->  
-        {% include_cached icons.html %}
-
+    {% if page.title == "Home"%}
+    <title>Welcome to Walbottle Village Institute, NE15 8JE &raquo; Home</title>
+    {% else %}
+    <title>{{page.title}}</title>
+    {% endif %}
+    <meta name="keywords" content="{{page.keywords}}">
+    <!-- Favicon -->  
+    {% include_cached icons.html %}
     <!-- Bootstrap core CSS -->
-        {% include_cached styles.html %}
-        <style type="text/css">
-          #imageGallery img {margin:0 auto !important;}
-        </style>
-	<!-- OpenGraph -->
-	{% include_cached opengraph.html %}
-  
-	<meta property="og:image" content="{{page.OGimage}}">  
-  <!--handle seo-->
-  {% seo title=false %}
+    {% include_cached styles.html %}
+    <!-- OpenGraph -->
+    {% include_cached opengraph.html %}
+    <meta property="og:image" content="{{page.OGimage}}">  
+    <!--handle seo-->
+    {% seo title=false %}
 </head>
 <body id="{{page.bodytag}}">
-  {%include mobile_icons.html%} <!--icons facebook and email for moblie-->
-  {%include nav.html%}	<!--main nav-->
+    {%include mobile_icons.html%} <!--icons facebook and email for moblie-->
+    {%include nav.html%}	<!--main nav-->
         {{content}}
-        {%include photoPanel.html%}
         {% include_cached footer.html %}
-    {% include_cached loadjs.html %}
-
+        {% include_cached loadjs.html %}
     <script type="text/javascript">
-      var _iub = _iub || [];
-      _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"floatingPreferencesButtonDisplay":"bottom-right","lang":"en-GB","perPurposeConsent":true,"siteId":3441148,"whitelabel":false,"cookiePolicyId":85654702, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"position":"bottom","rejectButtonDisplay":true,"showTitle":false }};
-      </script>
-      <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3441148.js"></script>
-      <script type="text/javascript" src="https://cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+	var _iub = _iub || [];
+	_iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"floatingPreferencesButtonDisplay":"bottom-right","lang":"en-GB","perPurposeConsent":true,"siteId":3441148,"whitelabel":false,"cookiePolicyId":85654702, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"position":"bottom","rejectButtonDisplay":true,"showTitle":false }};
+    </script>
+    <script type="text/javascript" src="https://cs.iubenda.com/autoblocking/3441148.js"></script>
+    <script type="text/javascript" src="https://cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
 </body>
 </html>
