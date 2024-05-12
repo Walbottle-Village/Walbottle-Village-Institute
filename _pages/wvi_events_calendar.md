@@ -1,3 +1,14 @@
+---
+layout: default
+title: Walbottle Village Institute &raquo; Groups, Classes and Events Calendar
+bodytag: events
+permalink: /wvi_events_calendar/
+description: Monthly calendar of groups, classes and events at Walbottle Village Institute.
+keywords: walbottle, village, ne15 8, wvi, events, groups
+url: https://www.walbottlevillagetra.co.uk/wvi_events_calendar/
+OGimage: /OG-events.jpg
+---
+
 <div class="container-fluid">
 	<div class="row intro">  
 	  	<div class="col-sm-8 col-xs-12">
