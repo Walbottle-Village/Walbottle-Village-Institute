@@ -15,7 +15,7 @@ OGimage: /OG-contact.jpg
 			<p>The hall is available if you would like to start a club or group and is available to book for one-off events using the form below, alternatively please <a href="mailto:anna@walbottlevi.com?subject=Enquiry From WVI Website" title="email Walbottle Village Institute"><strong>email us</strong></a>. For further information about any of the current groups or activities direct your enquiry to the group / activity organiser, their details can be found on the <a href="wvi_groups.html" title="group descriptions page" target="_self"><strong>groups page</strong></a>.</p>
 		</div>  
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="../wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>   
 	</div> 
 	<div class="row group-list">
