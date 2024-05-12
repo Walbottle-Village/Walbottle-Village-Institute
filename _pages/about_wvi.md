@@ -2,7 +2,7 @@
 layout: default
 title: Walbottle Village Institute &raquo; About The Institute
 bodytag: about
-permalink: /wvi_groups/
+permalink: /about_wvi/
 description: About the village institute, it's refurbishment and reopening in July 1997.
 keywords: about, walbottle, village, ne15 8, about wvi
 url: https://www.walbottlevillagetra.co.uk/about_wvi/
