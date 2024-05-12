@@ -15,7 +15,7 @@ OGimage: /OG-siteMap.jpg
 			<p>Walbottle Village Institute have made efforts to ensure this website is accessible to those with special needs, including those with visual, hearing, cognitive and motor impairments. We have strived to make this web site adhere to the W3 Web Content Accessibility Guidelines.</p>
 		</div>  
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="../wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="../wvi_hire/" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>   
 	</div> 
 	<div class="row policyWrap">
