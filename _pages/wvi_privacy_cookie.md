@@ -15,7 +15,7 @@ OGimage: /OG-privacy.jpg
 			<p>This Privacy Policy governs the manner in which Walbottle Village Institute collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.walbottlevi.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Walbottle Village Institute.</p>
 		</div>  
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="wvi_hire/" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>   
 	</div> 
 	<div class="row policyWrap">
