@@ -15,7 +15,7 @@ OGimage: /OG-about.jpg
 			<p>Walbottle Village Institute has sat in a prime location overlooking the village green since 1891 when it was first opened as a church mission room. A quaint little building which still in regular use today. The hall is managed by a team of volunteer trustees and members of the residents association. The hall is well used by a variety of clubs and groups during the week, details of which can be found on the <a href="wvi_events_calendar.html" title="visit the events calendar page" target="_self"><strong>events calendar page</strong></a> and the notice board outside the hall.</p>
 		</div>  
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="../wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>   
 	</div> 
 	<div class="row">
