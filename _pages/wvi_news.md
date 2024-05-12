@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Walbottle Village Institute &raquo; Current Groups &amp; Classes
-bodytag: groups
-permalink: /wvi_groups/
-description: Details about current groups at Walbottle Village Institute.
+title: Walbottle Village Institute &raquo; Latest News From Walbottle Village Institute
+bodytag: news
+permalink: /wvi_news/
+description: Meetings, news, events and groups at Walbottle Village Institute. Hall and facilities detail and hire rates.
 keywords: walbottle, village, ne15 8, wvi, events, groups, classes
-url: https://www.walbottlevillagetra.co.uk/wvi_groups/
-OGimage: /OG-groups.jpg
+url: https://www.walbottlevillagetra.co.uk/wvi_news/
+OGimage: /OG-news.jpg
 ---
 <div class="container-fluid">
 	<div class="row intro">  
