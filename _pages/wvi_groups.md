@@ -15,7 +15,7 @@ OGimage: /OG-groups.jpg
 			  <p>We’ve listed all the current groups and classes that use the Village Institute with a description of the activities and contact details. If you would like more information please use the contact detals supplied for that group.</p>
 		</div>   
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="../wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>  
 	</div> 
 	<div class="row group-list">
