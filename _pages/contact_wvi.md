@@ -38,9 +38,8 @@ NE15 8JE</p>
 <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
 <input type="hidden" name="recipients" value="chris@clockwork-design.co.uk" />
 <input type="hidden" name="derive_fields" value="email=Email_address,realname=Name" />
-
 <input type="hidden" name="subject" value="WVI Website Enquiry Form" />
-<input type="hidden" name="good_url" value="https://walbottle-village-institute.pages.dev/contact_thanks.html" />
+<input type="hidden" name="good_url" value="https://walbottle-village-institute.pages.dev/contact_thanks/" />
 <div class="col-md-2 hidden-sm hidden-xs"></div>
 <div class="col-md-10 col-sm-12 col-xs-12 header"><h3><strong>Contact Form</strong></h3></div>
 <div class="form-group has-feedback">
