@@ -21,7 +21,7 @@ OGimage: /OG-events.jpg
 	</div> 
 	<div class="row cal">
 		<div class="col-xs-12">
-			<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&bgcolor=%23ffffff&src=dWpjaTd0bTFqNXAyZ2YyZXUzb3BuZzMxNm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23B39DDB&color=%23EF6C00"> </iframe>
+			<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Europe%2FLondon&bgcolor=%23ffffff&src=dWpjaTd0bTFqNXAyZ2YyZXUzb3BuZzMxNm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23B39DDB&color=%23EF6C00">style="border:none;" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 		</div> 
 	</div>
 </div> <!-- /container -->
