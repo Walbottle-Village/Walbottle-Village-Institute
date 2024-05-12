@@ -7,3 +7,43 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="{{'assets/js/ie10-viewport-bug-workaround.js' | relative_url}} "></script>
+	<!-- Directions -->
+	  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDS3z0jNLQwKVNktezuxZc58hKH2oyR66U"></script>
+	  <script>
+var directionsDisplay;
+var directionsService = new google.maps.DirectionsService();
+var map;
+function initialize() {
+  directionsDisplay = new google.maps.DirectionsRenderer();
+  var wynyard = new google.maps.LatLng(54.99106757614022, -1.736562261648616);
+  
+  var mapOptions = {
+    zoom:13,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    center: wynyard,
+  }
+  map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+  directionsDisplay.setMap(map);
+  
+  var marker = new google.maps.Marker({
+      position: wynyard,
+      map: map,
+      title: 'Walbottle Village Institute, Walbottle, Newcastle upon Tyne, United Kingdom, NE15 8JE'
+  });
+}
+function calcRoute() {
+  var start = document.getElementById('start').value;
+  var end = document.getElementById('end').value;
+  var request = {
+      origin:start,
+      destination:end,
+      travelMode: google.maps.DirectionsTravelMode.DRIVING
+  };
+  directionsService.route(request, function(response, status) {
+    if (status == google.maps.DirectionsStatus.OK) {
+      directionsDisplay.setDirections(response);
+    }
+  });
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
