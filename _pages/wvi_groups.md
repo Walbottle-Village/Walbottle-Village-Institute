@@ -89,12 +89,11 @@ Susan: 0191 435 4677  |  June: 0191 229 0722</p>
 					</div>
 				</div>
 			</div>
-			
 			<div class="col-xs-12 eventWrap">
 				<div class="row" id="street_dance">
 					<div class="article">
 						<div class="col-sm-4 col-xs-12">
-							<img src="img/street-dance@4x-80.jpg" loading="lazy" alt="Sophie's Street Dance and Disney Dance classes" class="img-responsive">
+							<img src="../assets/images/street-dance@4x-80.jpg" loading="lazy" alt="Sophie's Street Dance and Disney Dance classes" class="img-responsive">
 						</div>
 						<div class="col-sm-8 col-xs-12">
 							<h3><strong>Street Dance and Disney Dance</strong></h3>
@@ -106,12 +105,11 @@ Sophie: 07534 023230</p>
 					</div>
 				</div>
 			</div>
-			
 			<div class="col-xs-12 eventWrap">
 				<div class="row" id="pilates">
 					<div class="article">
 						<div class="col-sm-4 col-xs-12">
-							<img src="img/pilates@4x-80.jpg" loading="lazy" alt="Pilates With Julia" class="img-responsive">
+							<img src="../assets/images/pilates@4x-80.jpg" loading="lazy" alt="Pilates With Julia" class="img-responsive">
 						</div>
 						<div class="col-sm-8 col-xs-12">
 							<h3><strong>Pilates With Julia</strong></h3>
@@ -124,12 +122,11 @@ Sophie: 07534 023230</p>
 					</div>
 				</div>
 			</div>
-			
 			<div class="col-xs-12 eventWrap">
 				<div class="row" id="gentle">
 					<div class="article">
 						<div class="col-sm-4 col-xs-12">
-							<img src="img/over60s@4x-80.jpg" loading="lazy" alt="Gentle Movement To Music" class="img-responsive">
+							<img src="../assets/images/over60s@4x-80.jpg" loading="lazy" alt="Gentle Movement To Music" class="img-responsive">
 						</div>
 						<div class="col-sm-8 col-xs-12">
 							<h3><strong>Gentle Movement To Music, Partly Chair Based - New classes with Sophie</strong></h3>
@@ -141,7 +138,6 @@ Sophie: 07534 023230</p>
 					</div>
 				</div>
 			</div>
-			
 		</div>
 		<div class="col-md-4 col-sm-4 col-xs-4 group-listings">
 			<div class="group-listings-wrap">
