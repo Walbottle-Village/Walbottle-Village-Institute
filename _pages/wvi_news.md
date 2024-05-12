@@ -15,7 +15,7 @@ OGimage: /OG-news.jpg
 			  <p>Latest news from the Village Institute. If you would like to contribute an article please get in touch using the details on our contact page.<br><br></p>
 		</div>   
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="../wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="../wvi_hire/" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>  
 	</div> 
 	<div class="row group-list">
