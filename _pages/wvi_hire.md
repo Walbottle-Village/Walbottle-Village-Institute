@@ -50,8 +50,8 @@ OGimage: /OG-hire.jpg
 								<li>WiFi</li>
 								<li>Projector and screen</li>
 								<li>Cenral heating</li>
-								<li>XX Tables (xx cm by xx cm)</li>
-								<li>XX Chairs</li>
+								<li>Tables available (enquire for quantity)</li>
+								<li>Chairs available (enquire for quantity)</li>
 								<li>On-street parking directly outside the institute</li>
 							</ul>
 						</div>
@@ -85,7 +85,7 @@ OGimage: /OG-hire.jpg
 								<li>Fridge</li>
 								<li>Microwave</li>
 								<li>Sink</li>
-								<li>Cutlery and dining sets for XX people</li>
+								<li>Cutlery and dining sets (enquire for quantity)</li>
 								<li>Cooking utensils</li>
 							</ul>
 						</div>
