@@ -33,10 +33,8 @@ NE15 8JE</p>
 <a href="mailto:anna@walbottlevi.com?subject=Enquiry from WVI Website" title="email Walbottle Village Institute">anna@walbottlevi.com</a></p>
 			</div>
 		</div>
-		
 		<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
 			<form class="form-horizontal" action="https://www.walbottlevi.com/formmail.php" method="post" name="WVI_Website_Enquiry_Form" data-toggle="validator" role="form">
-
 <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
 <input type="hidden" name="recipients" value="chris@clockwork-design.co.uk" />
 <input type="hidden" name="derive_fields" value="email=Email_address,realname=Name" />
@@ -52,7 +50,6 @@ NE15 8JE</p>
 <div class="help-block with-errors"></div>
   	</div>
 </div>
-
 <div class="form-group">
 	<label class="control-label col-xs-2" for="email">Email&nbsp;<span>*</span></label>
 	<div class="col-xs-10">
@@ -60,7 +57,6 @@ NE15 8JE</p>
 <div class="help-block with-errors"></div>
   	</div>
 </div>
-
 <div class="form-group">
 	<label class="control-label col-xs-2" for="tel">Phone&nbsp;<span>*</span></label>
 	<div class="col-xs-10">
@@ -68,7 +64,6 @@ NE15 8JE</p>
 <div class="help-block with-errors"></div>
   	</div>
 </div>
-
 <div class="form-group">
 	<label class="control-label col-xs-2" for="event_type">Enquiry Subject&nbsp;<span>*</span></label>
 	<div class="col-xs-10">
@@ -76,7 +71,6 @@ NE15 8JE</p>
 <div class="help-block with-errors"></div>
   	</div>
 </div>
-
 <div class="form-group">
 	<label class="control-label col-xs-2" for="special_requirements">Message&nbsp;<span>*</span></label>
 	<div class="col-xs-10">
@@ -84,7 +78,6 @@ NE15 8JE</p>
 <div class="help-block with-errors"></div>
   	</div>
 </div>
-
 <div class="row">
 <div class="col-xs-2 col-md-2"></div>
 <div class="col-xs-10 col-md-10">
@@ -95,7 +88,6 @@ NE15 8JE</p>
 				
 <br class="visible-xs">
 </form>
-
 						    		<div class="col-md-10 col-md-offset-2 col-sm-12 col-xs-12 map">
 											<h3><strong>Directions to Walbottle Village Institute</strong></h3>
 <div id="map-canvas"></div>
@@ -117,22 +109,17 @@ NE15 8JE</p>
 </form>
 						</div>
 		</div>
-		
- 
 		</div>
 		</div>  <!-- /container -->
   <!-- Directions -->
 	  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyDS3z0jNLQwKVNktezuxZc58hKH2oyR66U"></script>
-	  
 	  <script>
 var directionsDisplay;
 var directionsService = new google.maps.DirectionsService();
 var map;
-
 function initialize() {
   directionsDisplay = new google.maps.DirectionsRenderer();
   var wynyard = new google.maps.LatLng(54.99106757614022, -1.736562261648616);
-  
   var mapOptions = {
     zoom:13,
     mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -147,7 +134,6 @@ function initialize() {
       title: 'Walbottle Village Institute, Walbottle, Newcastle upon Tyne, United Kingdom, NE15 8JE'
   });
 }
-
 function calcRoute() {
   var start = document.getElementById('start').value;
   var end = document.getElementById('end').value;
@@ -162,7 +148,5 @@ function calcRoute() {
     }
   });
 }
-
 google.maps.event.addDomListener(window, 'load', initialize);
-
     </script>
