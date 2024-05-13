@@ -43,22 +43,6 @@ OGimage: /OG-news.jpg
 				</div>
 			</div>
 			<div class="col-xs-12 newsWrap">
-				<div class="row" id="warm">
-					<div class="article">
-						<div class="col-md-4 col-sm-12 col-xs-12">
-							<img src="../assets/images/wvi-02.jpg" loading="lazy" alt="Walbottle Village Institute image" class="img-responsive">
-						</div>
-						<div class="col-md-8 col-sm-12 col-xs-12">
-							<h3><strong>WVI And Warm Space Initiative</strong></h3>
-								<p class="date">Published: 10 November 2022</p>
-								<p><strong>The Board of Trustees of Walbottle Village Institute are considering opening the Institute as a Warm Space for use by the village residents.</strong></p>
-								<p>This may be combined with offering a light lunch served free of charge to those who are finding it difficult to cope with the increase in heating and other living costs. However, to be able to offer this service they are in need of volunteers. If you can offer a morning once a week to help your neighbours it would be greatly appreciated.</p>
-								<p>Please get in touch using the <a href="contact_wvi.html" title="contact Walbottle Village Institute" target="_self">contact page</a>.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 newsWrap">
 				<div class="row" id="gannin">
 					<div class="article">
 						<div class="col-md-4 col-sm-12 col-xs-12">
