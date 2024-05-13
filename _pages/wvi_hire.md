@@ -48,7 +48,6 @@ OGimage: /OG-hire.jpg
 							<p><strong>Facilities include:</strong></p>
 							<ul>
 								<li>WiFi</li>
-								<li>Projector and screen</li>
 								<li>Cenral heating</li>
 								<li>Tables available (enquire for quantity)</li>
 								<li>Chairs available (enquire for quantity)</li>
