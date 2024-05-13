@@ -80,7 +80,6 @@ OGimage: /OG-news.jpg
 			<ul>
 			<li><a href="#safety" title="view 'Designated Place Of Safety' article">Designated Place Of Safety</a><br><span>Published: 31 March 2024</span></li>
 			<li><a href="#pie_peas" title="view 'Pie &amp; Peas Supper and Film Night' article">Pie &amp; Peas Supper and Film Night</a><br><span>Published: 19 February 2024</span></li>
-			<li><a href="#warm" title="view 'WVI And Warm Space Initiative' article">WVI And Warm Space Initiative</a><br><span>Published: 10 November 2022</span></li>
 			<li><a href="#gannin" title="view 'Gannin Alang The Wall' article">Gannin Alang The Wall – A Film About The True Route Of Hadrian’s Wall Through Newcastle</a><br><span>Published: 12 August 2022</span></li>
 			<li><a href="#gannin" title="view 'Projector &amp; Screen' article">Projector &amp; Screen</a><br><span>Published: 24 February 2022</span></li>
 			</ul>
