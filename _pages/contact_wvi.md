@@ -34,7 +34,7 @@ NE15 8JE</p>
 			</div>
 		</div>
 		<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
-			<form class="form-horizontal" action="https://email.walbottlevi.com/formmail.php" method="post" name="WVI_Website_Enquiry_Form" data-toggle="validator" role="form">
+			<form class="form-horizontal" action="https://walbottle-village-institute.pages.dev/formmail.php" method="post" name="WVI_Website_Enquiry_Form" data-toggle="validator" role="form">
 <input type="hidden" name="env_report" value="REMOTE_HOST,REMOTE_ADDR,HTTP_USER_AGENT,AUTH_TYPE,REMOTE_USER" />
 <input type="hidden" name="recipients" value="chris@clockwork-design.co.uk" />
 <input type="hidden" name="derive_fields" value="email=Email_address,realname=Name" />
