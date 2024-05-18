@@ -32,6 +32,9 @@ OGimage: /OG-siteMap.jpg
 					  	<li><span>[alt] and/or [ctrl] + a</span><a href="../about_wvi/" title="about Walbottle Village Institute" target="_self" accesskey="a">About</a></li>
 					  	<li><span>[alt] and/or [ctrl] + n</span><a href="../wvi_news/" title="latest institute news" target="_self" accesskey="n">News</a></li>
 					  	<li><span>[alt] and/or [ctrl] + c</span><a href="../contact_wvi/" title="contact Walbottle Village Institute" target="_self" accesskey="c">Contact</a></li>
+					  	<li><span>[alt] and/or [ctrl] + h</span><a href="../wvi_hire/" title="hire Walbottle Village Institute" target="_self" accesskey="h">Hire the hall</a></li>
+					  	<li><span>[alt] and/or [ctrl] + p</span><a href="../wvi_privacy_cookie/" title="privacy and cookie policy" target="_self" accesskey="p">Privacy &amp; Cookie Policy</a></li>
+					  	<li><span>[alt] and/or [ctrl] + s</span><a href="../wvi_access_map/" title="accessibility and site map" target="_self" accesskey="s">This accessibility &amp; site map page</a></li>
 					  	<li><span>[alt] and/or [ctrl] + f</span><a href="https://www.facebook.com/walbottle" title="visit the WVI Facebook group in a new window" target="_blank" accesskey="f"><span>Facebook</span><img src="../assets/images/FB-logo.png" alt="Facebook icon"/></a></li>
 					</ul>
 		</div> 
