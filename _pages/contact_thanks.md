@@ -33,7 +33,6 @@ NE15 8JE</p>
 <a href="mailto:anna@walbottlevi.com?subject=Enquiry from WVI Website" title="email Walbottle Village Institute">anna@walbottlevi.com</a></p>
 			</div>
 		</div>
-	</div>
 	<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
 			<div class="col-md-10 col-md-offset-1 col-sm-12 col-xs-12 aboutWrap">
 				<h3><strong>Contact Form</strong></h3></div>
