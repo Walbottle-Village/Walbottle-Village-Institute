@@ -8,7 +8,7 @@ keywords: walbottle, village, ne15 8,contact wvi
 url: https://www.walbottlevillagetra.co.uk/contact_thanks/
 OGimage: /OG-contact.jpg
 ---
-div class="container-fluid">
+<div class="container-fluid">
 	<div class="row intro">  
 	  	<div class="col-sm-8 col-xs-12">
 			<h2><strong>Contact Walbottle Village Institute</strong></h2>
