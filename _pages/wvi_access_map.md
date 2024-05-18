@@ -19,7 +19,7 @@ OGimage: /OG-siteMap.jpg
 		</div>   
 	</div> 
 	<div class="row policyWrap">
-		<div class="col-xs-12">
+		<div class="col-sm-8 col-xs-12">
 			<h3><strong>Site Information</strong></h3>
 					<p>Links have title attributes describing the link in greater detail and wherever possible, links are written to make sense out of context. Links to our privacy statement and cookies policy, site map, contact details and this accessibility statement appear on every page.</p>
 					<p>The site is free of frames, using HTML 5.0 and CSS for visual layout. Tables are only used for tabular data. The site content has been tested in browsers without images or javascript enabled to ensure legibility.</p>
