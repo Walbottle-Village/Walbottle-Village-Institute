@@ -15,7 +15,7 @@ OGimage: /OG-hire.jpg
 			  <p>Walbottle Village Institute is available to hire. Detail about the hall and it's facilities are listed below. Please read over the hire agreement and safeguarding policies, and if you would like to book the institute please use the form on the <a href="contact_wvi.html" title="visit the WVI contact page" target="_self"><strong>contact page</strong></a>.</p>
 		</div>   
 	  	<div class="col-sm-4 col-xs-12">
-			<a href="wvi_hire.html" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
+			<a href="../wvi_hire/" title="hire the institute hall" target="_self" class="hire" accesskey="h">Hire The Hall</a>
 		</div>  
 	</div> 
 	<div class="row group-list">
