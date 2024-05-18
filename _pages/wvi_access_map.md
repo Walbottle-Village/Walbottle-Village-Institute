@@ -26,13 +26,13 @@ OGimage: /OG-siteMap.jpg
 					<p>Some items on this website utilise Javascript, although all content is available should Javascript be disabled or unavailable.</p>
 					<h3><br><strong>Site Map &amp; Access Keys</strong></h3>
 					<ul>
-						<li><span>[alt] and/or [ctrl] + 0</span><a href="../index.html" title="home page" target="_self" caccesskey="0">Home</a></li>
-						<li><span>[alt] and/or [ctrl] + e</span><a href="../wvi_events_calendar.html" title="events at the institute" target="_self" caccesskey="e">Evens Calendar</a></li>
-					  	<li><span>[alt] and/or [ctrl] + g</span><a href="../wvi_groups.html" title="group descriptions" target="_self" caccesskey="g">Groups</a></li>
-					  	<li><span>[alt] and/or [ctrl] + a</span><a href="../about_wvi.html" title="about Walbottle Village Institute" target="_self" accesskey="a">About</a></li>
-					  	<li><span>[alt] and/or [ctrl] + n</span><a href="../wvi_news.html" title="latest institute news" target="_self" accesskey="n">News</a></li>
-					  	<li><span>[alt] and/or [ctrl] + c</span><a href="../contact_wvi.html" title="contact Walbottle Village Institute" target="_self" accesskey="c">Contact</a></li>
-					  	<li><span>[alt] and/or [ctrl] + f</span><a href="https://www.facebook.com/walbottle" title="visit the WVI Facebook group in a new window" target="_blank" accesskey="f"><span>Facebook</span><img src="img/FB-logo.png" alt="Facebook icon"/></a></li>
+						<li><span>[alt] and/or [ctrl] + 0</span><a href="../" title="home page" target="_self" caccesskey="0">Home</a></li>
+						<li><span>[alt] and/or [ctrl] + e</span><a href="../wvi_events_calendar/" title="events at the institute" target="_self" caccesskey="e">Evens Calendar</a></li>
+					  	<li><span>[alt] and/or [ctrl] + g</span><a href="../wvi_groups/" title="group descriptions" target="_self" caccesskey="g">Groups</a></li>
+					  	<li><span>[alt] and/or [ctrl] + a</span><a href="../about_wvi/" title="about Walbottle Village Institute" target="_self" accesskey="a">About</a></li>
+					  	<li><span>[alt] and/or [ctrl] + n</span><a href="../wvi_news/" title="latest institute news" target="_self" accesskey="n">News</a></li>
+					  	<li><span>[alt] and/or [ctrl] + c</span><a href="../contact_wvi/" title="contact Walbottle Village Institute" target="_self" accesskey="c">Contact</a></li>
+					  	<li><span>[alt] and/or [ctrl] + f</span><a href="https://www.facebook.com/walbottle" title="visit the WVI Facebook group in a new window" target="_blank" accesskey="f"><span>Facebook</span><img src="../assets/images/FB-logo.png" alt="Facebook icon"/></a></li>
 					</ul>
 		</div> 
 	</div>
