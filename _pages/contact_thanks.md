@@ -35,9 +35,9 @@ NE15 8JE</p>
 		</div>
 	</div>
 	<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
-		<h3><strong>Contact Form</strong></h3></div>
-		<p>Thank you for your enquiry. One of the WVI team will reply as soon as possible. Please continue to enjoy browsing the site.<br><br><br></p>
-			<div class="col-md-10 col-md-offset-2 col-sm-12 col-xs-12 map">
+			<div class="col-md-10 col-md-offset-1 col-sm-12 col-xs-12 aboutWrap">
+				<h3><strong>Contact Form</strong></h3></div>
+				<p>Thank you for your enquiry. One of the WVI team will reply as soon as possible. Please continue to enjoy browsing the site.</p>
 				<h3><strong>Directions to Walbottle Village Institute</strong></h3>
 <div id="map-canvas"></div>
 <div class="form directions">
@@ -56,6 +56,7 @@ NE15 8JE</p>
 <input id="end" type="hidden" value="Walbottle Village Institute, Walbottle, Newcastle upon Tyne, United Kingdom, NE15 8JE" />
 <button class="btn btn-external submit pull-right" type="submit" title="view directions in Google Maps">Alternative routes in Google Maps &nbsp;<span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></button>
 </form>
+		</div>
 						</div>
 		</div>
 		</div>  <!-- /container -->
