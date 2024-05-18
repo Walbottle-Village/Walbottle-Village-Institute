@@ -19,25 +19,26 @@ OGimage: /OG-contact.jpg
 		</div>   
 	</div> 
 	<div class="row group-list">
-				<div class="col-md-4 col-sm-12 col-xs-12 col-md-push-8 contact-listings">
+		<div class="col-md-4 col-sm-12 col-xs-12 col-md-push-8 contact-listings">
 			<div class="contact-listings-wrap">
-			<h3><strong>Details:</strong></h3>
-			<p>Address: <br>
+				<h3><strong>Details:</strong></h3>
+				<p>Address: <br>
 Walbottle Village Institute, <br>
 Walbottle, <br>
 Newcastle upon Tyne, <br>
 NE15 8JE</p>
-			<p>What 3 Words Location: <br>
+				<p>What 3 Words Location: <br>
 <a href="https://w3w.co/lots.nurse.calm" title="view location in What 3 Words in a new window" target="_blank" class="w3w"><span>///</span> lots.nurse.calm</a></p>
-			<p>Email: <br>
+				<p>Email: <br>
 <a href="mailto:anna@walbottlevi.com?subject=Enquiry from WVI Website" title="email Walbottle Village Institute">anna@walbottlevi.com</a></p>
 			</div>
 		</div>
-		<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
-<h3><strong>Contact Form</strong></h3></div>
-<p>Thank you for your enquiry. One of our team will reply as soon as possible.</p>
-						    		<div class="col-md-10 col-md-offset-2 col-sm-12 col-xs-12 map">
-											<h3><strong>Directions to Walbottle Village Institute</strong></h3>
+	</div>
+	<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
+		<h3><strong>Contact Form</strong></h3></div>
+		<p>Thank you for your enquiry. One of our team will reply as soon as possible.</p>
+			<div class="col-md-10 col-md-offset-2 col-sm-12 col-xs-12 map">
+				<h3><strong>Directions to Walbottle Village Institute</strong></h3>
 <div id="map-canvas"></div>
 <div class="form directions">
 <div class="input-group">
