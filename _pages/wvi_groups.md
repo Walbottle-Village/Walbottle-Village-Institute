@@ -116,7 +116,7 @@ Sophie: 07534 023230</p>
 							<p>Julia is an experienced teacher with a number of classes in the area and we are delighted she has chosen Walbottle village institute for this new class.</p>
 							<p>Classes are suitable for beginners and for people with more experience.</p>
 							<p>Julia always gives modifications to make it easier or harder to suit all abilities.</p>
-							<p>Contact Julia on <strong>XX</strong> for more information or to book a place.</p>
+							<p>Contact <a href="https://www.facebook.com/pilateswithjulia" title="open in a new window" target="blank">Julia via her Facebook page</a> for more information or to book a place.</p>
 							<p>Please bring a yoga/ Pilates mat and a drink of water.</p>
 						</div>
 					</div>
