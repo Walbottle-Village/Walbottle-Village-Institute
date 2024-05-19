@@ -36,7 +36,7 @@ NE15 8JE</p>
 		<div class="col-md-8 col-sm-12 col-md-pull-4 col-xs-12">
 			<div class="col-md-10 col-md-offset-1 col-sm-12 col-xs-12 aboutWrap">
 				<h3><strong>Contact Form</strong></h3>
-				<p>Thank you for your enquiry. One of our team will reply as soon as possible.lease continue to enjoy browsing the site.</p>
+				<p>Thank you for your enquiry. One of our team will reply as soon as possible. Please continue to enjoy browsing the site.</p>
 				<h3><strong>Directions to Walbottle Village Institute</strong></h3>
 <div id="map-canvas"></div>
 <div class="form directions">
