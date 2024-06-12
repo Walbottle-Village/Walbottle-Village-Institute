@@ -21,6 +21,35 @@ OGimage: /OG-news.jpg
 	<div class="row group-list">
 		<div class="col-sm-8 col-xs-12">
 			<div class="col-xs-12 newsWrap">
+				<div class="row" id="AGM">
+					<div class="article">
+						<div class="col-md-4 col-sm-12 col-xs-12">
+							<img src="../assets/images/wvi-01.jpg" loading="lazy" alt="Walbottle Village Institute image" class="img-responsive">
+						</div>
+						<div class="col-md-8 col-sm-12 col-xs-12">
+							<h3><strong>AGM</strong></h3>
+							<p class="date">Published: 12th June 2024</p>
+
+    <h2>Agenda Preview</h2>
+    <p>We will send a detailed agenda closer to the date. In the meantime, we wanted to give you advance notice of a critical discussion point: proposed renovation work. The key tasks include:</p>
+    <ul>
+        <li><strong>Addressing Damp Issues in the Porch:</strong> This involves dry lining the entryway.</li>
+        <li><strong>Repairing Wall Cracks:</strong> Essential maintenance to ensure structural integrity.</li>
+        <li><strong>Redecorating the Building:</strong> A fresh look for our entire facility.</li>
+        <li><strong>Electrical Work:</strong> Some of which we will manage, while other tasks will be conducted by the electric board, potentially requiring external pathway excavation. Unfortunately, we may have limited notice for these external works.</li>
+    </ul>
+
+    <h2>Minimizing Disruption</h2>
+    <p>We aim to minimize any disruption and ensure safety for all. The contractor overseeing the renovations will be present at the meeting to address any questions or concerns you may have.</p>
+
+    <h2>Your Input Needed</h2>
+    <p>We also seek your suggestions for paint colors for the hall. Should we maintain the current scheme or opt for a change? Your input is valuable to us.</p>
+
+    <p>We look forward to your participation and to a productive discussion.</p>						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 newsWrap">
 				<div class="row" id="safety">
 					<div class="article">
 						<div class="col-md-4 col-sm-12 col-xs-12">
