@@ -107,6 +107,7 @@ OGimage: /OG-news.jpg
 			<div class="group-listings-wrap">
 			<h3><strong>News Headlines:</strong></h3>
 			<ul>
+			<li><a href="#AGM" title="view 'AGM' article">AGM 2024</a><br><span>Published: 12 June 2024</span></li>
 			<li><a href="#safety" title="view 'Designated Place Of Safety' article">Designated Place Of Safety</a><br><span>Published: 31 March 2024</span></li>
 			<li><a href="#pie_peas" title="view 'Pie &amp; Peas Supper and Film Night' article">Pie &amp; Peas Supper and Film Night</a><br><span>Published: 19 February 2024</span></li>
 			<li><a href="#gannin" title="view 'Gannin Alang The Wall' article">Gannin Alang The Wall – A Film About The True Route Of Hadrian’s Wall Through Newcastle</a><br><span>Published: 12 August 2022</span></li>
