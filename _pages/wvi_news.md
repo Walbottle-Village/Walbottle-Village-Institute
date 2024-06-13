@@ -21,6 +21,35 @@ OGimage: /OG-news.jpg
 	<div class="row group-list">
 		<div class="col-sm-8 col-xs-12">
 			<div class="col-xs-12 newsWrap">
+				<div class="row" id="AGM">
+					<div class="article">
+						<div class="col-md-4 col-sm-12 col-xs-12">
+							<img src="../assets/images/wvi-01.jpg" loading="lazy" alt="Walbottle Village Institute image" class="img-responsive">
+						</div>
+						<div class="col-md-8 col-sm-12 col-xs-12">
+							<h3><strong>AGM 17 th of July at 7.30 pm </strong></h3>
+							<p class="date">Published: 12th June 2024</p>
+
+    <h2>Agenda Preview</h2>
+    <p>We will send a detailed agenda closer to the date. In the meantime, we wanted to give you advance notice of a critical discussion point: proposed renovation work. The key tasks include:</p>
+    <ul>
+        <li><strong>Addressing Damp Issues in the Porch:</strong> This involves dry lining the entryway.</li>
+        <li><strong>Repairing Wall Cracks:</strong> Essential maintenance to ensure structural integrity.</li>
+        <li><strong>Redecorating the Building:</strong> A fresh look for our entire facility.</li>
+        <li><strong>Electrical Work:</strong> Some of which we will manage, while other tasks will be conducted by the electric board, potentially requiring external pathway excavation. Unfortunately, we may have limited notice for these external works.</li>
+    </ul>
+
+    <h2>Minimizing Disruption</h2>
+    <p>We aim to minimize any disruption and ensure safety for all. The contractor overseeing the renovations will be present at the meeting to address any questions or concerns you may have.</p>
+
+    <h2>Your Input Needed</h2>
+    <p>We also seek your suggestions for paint colors for the hall. Should we maintain the current scheme or opt for a change? Your input is valuable to us.</p>
+
+    <p>We look forward to your participation and to a productive discussion, see you on 17 2024 th of July at 7.30 pm .</p>						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 newsWrap">
 				<div class="row" id="safety">
 					<div class="article">
 						<div class="col-md-4 col-sm-12 col-xs-12">
@@ -78,6 +107,7 @@ OGimage: /OG-news.jpg
 			<div class="group-listings-wrap">
 			<h3><strong>News Headlines:</strong></h3>
 			<ul>
+			<li><a href="#AGM" title="view 'AGM' article">AGM 2024</a><br><span>Published: 12 June 2024</span></li>
 			<li><a href="#safety" title="view 'Designated Place Of Safety' article">Designated Place Of Safety</a><br><span>Published: 31 March 2024</span></li>
 			<li><a href="#pie_peas" title="view 'Pie &amp; Peas Supper and Film Night' article">Pie &amp; Peas Supper and Film Night</a><br><span>Published: 19 February 2024</span></li>
 			<li><a href="#gannin" title="view 'Gannin Alang The Wall' article">Gannin Alang The Wall – A Film About The True Route Of Hadrian’s Wall Through Newcastle</a><br><span>Published: 12 August 2022</span></li>
