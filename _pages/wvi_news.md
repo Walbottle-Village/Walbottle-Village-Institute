@@ -27,7 +27,7 @@ OGimage: /OG-news.jpg
 							<img src="../assets/images/wvi-01.jpg" loading="lazy" alt="Walbottle Village Institute image" class="img-responsive">
 						</div>
 						<div class="col-md-8 col-sm-12 col-xs-12">
-							<h3><strong>AGM</strong></h3>
+							<h3><strong>AGM 17 th of July at 7.30 pm </strong></h3>
 							<p class="date">Published: 12th June 2024</p>
 
     <h2>Agenda Preview</h2>
@@ -45,7 +45,7 @@ OGimage: /OG-news.jpg
     <h2>Your Input Needed</h2>
     <p>We also seek your suggestions for paint colors for the hall. Should we maintain the current scheme or opt for a change? Your input is valuable to us.</p>
 
-    <p>We look forward to your participation and to a productive discussion.</p>						</div>
+    <p>We look forward to your participation and to a productive discussion, see you on 17 2024 th of July at 7.30 pm .</p>						</div>
 					</div>
 				</div>
 			</div>
