@@ -115,7 +115,7 @@ OGimage: /OG-hire.jpg
 			<div class="pdf-listings-wrap">
 			<h3><strong>Documents:</strong></h3>
 			<ul>
-			<li><a href="../assets/pdf/WVI_Hire_Agreement.pdf" title="view the Hire Agreement PDF in a new window" target="_blank">Hire Agreement PDF</a></li>
+			<li><a href="../assets/pdf/WVI_Hire_Agreement.pdf" title="view the Hire Agreement PDF in a new window" target="_blank">Vew Hire Agreement PDF</a></li>
 			<li><a href="../assets/pdf/WVI_Safeguarding_Policy.pdf" title="view the Safeguarding Policy PDF in a new window" target="_blank">Safeguarding Policy PDF</a></li>
 			</ul>
 			</div>
