@@ -54,18 +54,15 @@ OGimage: /OG-news.jpg
 						<div class="col-md-8 col-sm-12 col-xs-12">
 							<h3><strong>AGM 17 th of July at 7.30 pm </strong></h3>
 							<p class="date">Published: 12th June 2024</p>
-    <p><strong>Agenda Preview</strong></p>
-    <p>We will send a detailed agenda closer to the date. In the meantime, we wanted to give you advance notice of a critical discussion point: proposed renovation work. The key tasks include:</p>
+    <p><strong>Agenda Preview</strong><br>We will send a detailed agenda closer to the date. In the meantime, we wanted to give you advance notice of a critical discussion point: proposed renovation work. The key tasks include:</p>
     <ul>
         <li><strong>Addressing Damp Issues in the Porch:</strong> This involves dry lining the entryway.</li>
         <li><strong>Repairing Wall Cracks:</strong> Essential maintenance to ensure structural integrity.</li>
         <li><strong>Redecorating the Building:</strong> A fresh look for our entire facility.</li>
         <li><strong>Electrical Work:</strong> Some of which we will manage, while other tasks will be conducted by the electric board, potentially requiring external pathway excavation. Unfortunately, we may have limited notice for these external works.</li>
     </ul>
-    <p><strong>Minimising Disruption</strong></p>
-    <p>We aim to minimize any disruption and ensure safety for all. The contractor overseeing the renovations will be present at the meeting to address any questions or concerns you may have.</p>
-    <p><strong>Your Input Needed</strong></p>
-    <p>We also seek your suggestions for paint colors for the hall. Should we maintain the current scheme or opt for a change? Your input is valuable to us.</p>
+    <p><strong>Minimising Disruption</strong><br>We aim to minimize any disruption and ensure safety for all. The contractor overseeing the renovations will be present at the meeting to address any questions or concerns you may have.</p>
+    <p><strong>Your Input Needed</strong><br>We also seek your suggestions for paint colors for the hall. Should we maintain the current scheme or opt for a change? Your input is valuable to us.</p>
     <p>We look forward to your participation and to a productive discussion, see you on 17 2024 th of July at 7.30 pm .</p>						</div>
 					</div>
 				</div>
