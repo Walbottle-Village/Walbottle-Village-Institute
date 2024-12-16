@@ -21,6 +21,31 @@ OGimage: /OG-news.jpg
 	<div class="row group-list">
 		<div class="col-sm-8 col-xs-12">
 			<div class="col-xs-12 newsWrap">
+				<div class="row" id="trustees">
+					<div class="article">
+						<div class="col-md-4 col-sm-12 col-xs-12">
+							<img src="../assets/images/wvi-01.jpg" loading="lazy" alt="Walbottle Village Institute image" class="img-responsive">
+						</div>
+						<div class="col-md-8 col-sm-12 col-xs-12">
+							<h3><strong>Invitation of Expressions of Interest to Become A Trustee of Walbottle Village Institute Charity</strong></h3>
+							<p class="date">Published: 16th December 2024</p>
+    <p>The Trustees of Walbottle Village Institute invite expressions of interest from Walbottle Residents to become additional Trustees of the Walbottle Village Institute Charity.</p>
+<p>Trustees are the volunteers who lead charities and decide how they are run.</p>
+<p>They have independent control over and legal responsibility for a charity’s management and administration.</p>
+<p>The role is unpaid; Trustees meet once every 2-3 months usually on a Wednesday Evening locally.</p>
+							<p><strong>To be eligible, you must be:</strong></p>
+							<ul>
+								<li>At least 18 years of age</li>
+								<li>You must not be disqualified by the Charities Commission from holding such a role.</li>
+								<li>Further information regarding the role of a Trustee can be found at: 
+https://www.gov.uk/guidance/charity-trustee-whats-involved</li>
+							</ul>
+							<p>If you would like further information, please contact Wendy Carr (Secretary WVI Trustees) by email at: <a href="mailto:wendy@walbottlevi.com" title="email Wendy Carr">wendy@walbottlevi.com</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-12 newsWrap">
 				<div class="row" id="AGM">
 					<div class="article">
 						<div class="col-md-4 col-sm-12 col-xs-12">
@@ -29,8 +54,7 @@ OGimage: /OG-news.jpg
 						<div class="col-md-8 col-sm-12 col-xs-12">
 							<h3><strong>AGM 17 th of July at 7.30 pm </strong></h3>
 							<p class="date">Published: 12th June 2024</p>
-
-    <h2>Agenda Preview</h2>
+    <p><strong>Agenda Preview</strong></p>
     <p>We will send a detailed agenda closer to the date. In the meantime, we wanted to give you advance notice of a critical discussion point: proposed renovation work. The key tasks include:</p>
     <ul>
         <li><strong>Addressing Damp Issues in the Porch:</strong> This involves dry lining the entryway.</li>
@@ -38,13 +62,10 @@ OGimage: /OG-news.jpg
         <li><strong>Redecorating the Building:</strong> A fresh look for our entire facility.</li>
         <li><strong>Electrical Work:</strong> Some of which we will manage, while other tasks will be conducted by the electric board, potentially requiring external pathway excavation. Unfortunately, we may have limited notice for these external works.</li>
     </ul>
-
-    <h2>Minimizing Disruption</h2>
+    <p><strong>Minimising Disruption</strong></p>
     <p>We aim to minimize any disruption and ensure safety for all. The contractor overseeing the renovations will be present at the meeting to address any questions or concerns you may have.</p>
-
-    <h2>Your Input Needed</h2>
+    <p><strong>Your Input Needed</strong></p>
     <p>We also seek your suggestions for paint colors for the hall. Should we maintain the current scheme or opt for a change? Your input is valuable to us.</p>
-
     <p>We look forward to your participation and to a productive discussion, see you on 17 2024 th of July at 7.30 pm .</p>						</div>
 					</div>
 				</div>
@@ -107,6 +128,7 @@ OGimage: /OG-news.jpg
 			<div class="group-listings-wrap">
 			<h3><strong>News Headlines:</strong></h3>
 			<ul>
+			<li><a href="#trustees" title="view 'Trustees' article">Expressions of Interest to Become A Trustee</a><br><span>Published: 16 December 2024</span></li>
 			<li><a href="#AGM" title="view 'AGM' article">AGM 2024</a><br><span>Published: 12 June 2024</span></li>
 			<li><a href="#safety" title="view 'Designated Place Of Safety' article">Designated Place Of Safety</a><br><span>Published: 31 March 2024</span></li>
 			<li><a href="#pie_peas" title="view 'Pie &amp; Peas Supper and Film Night' article">Pie &amp; Peas Supper and Film Night</a><br><span>Published: 19 February 2024</span></li>
