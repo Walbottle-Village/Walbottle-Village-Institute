@@ -38,7 +38,7 @@ OGimage: /OG-news.jpg
 								<li>At least 18 years of age</li>
 								<li>You must not be disqualified by the Charities Commission from holding such a role.</li>
 								<li>Further information regarding the role of a Trustee can be found at: 
-https://www.gov.uk/guidance/charity-trustee-whats-involved</li>
+<a href="www.gov.uk/guidance/charity-trustee-whats-involved" title="view link in a new tab" target="_blank">https://www.gov.uk/guidance/charity-trustee-whats-involved</a></li>
 							</ul>
 							<p>If you would like further information, please contact Wendy Carr (Secretary WVI Trustees) by email at: <a href="mailto:wendy@walbottlevi.com" title="email Wendy Carr">wendy@walbottlevi.com</a></p>
 						</div>
