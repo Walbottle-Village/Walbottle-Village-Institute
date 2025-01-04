@@ -54,27 +54,6 @@ New members are always welcome.</p>
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
-				<div class="row" id="treble">
-					<div class="article">
-						<div class="col-sm-4 col-xs-12">
-							<img src="../assets/images/treble-time@4x-80.jpg" loading="lazy" alt="Treble Time group image" class="img-responsive">
-						</div>
-						<div class="col-sm-8 col-xs-12">
-							<h3><strong>Treble Time – Music Classes For Babies, Preschoolers And Their Grown-ups</strong></h3>
-							<p>Treble Time is a fun and interactive music class for babies to pre-schoolers and their grownups, run by Carol Bowden. There’ll be lots of singing and dancing to live music (to ukulele and percussion). Activities include singing, action and movement songs to develop language, fine and gross motor skills and lots of opportunities to make friends.</p>
-							<p>Every child will receive a &quot;song bag&quot; with finger puppets, scarves, instruments and a ribbon ring to play with during the session and inspire their creativity. Everything is cleaned before and after class.</p>
-							<p>Treble Time is a small, independent business run by, Carol Bowden, a professional musician and music leader for over 15 years. who has worked with arts and health organisations, the NHS, local authorities and family services.</p>
-							<p>Singing and music-making with your child is an important activity in supporting your child’s social, emotional and physical development, helping in bonding and attachment and, more than anything, it makes you feel good!</p>
-							<p>Carol has an enhanced DBS/CRB cheack and is fully insured, so your in safe hands.</p>
-							<p>Book online at <a href="https://bookwhen.com/trebletime" title="book Treble Time online" target="_blank">bookwhen.com/trebletime</a></p>
-							<p><strong>Contact Carol:</strong> <br>
-Facebook: <a href="http://facebook.com/trebletimemusic/" title="visit Treble Time Facebook page" target="_blank">facebook.com/trebletimemusic/</a> <br>
-								Email: <a href="mailto:carolbowdenmusic@gmail.com?subject=Enquiry From Walbottle Village Institute Website" title="email Carol">carolbowdenmusic@gmail.com</a></p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 eventWrap">
 				<div class="row" id="60s">
 					<div class="article">
 						<div class="col-sm-4 col-xs-12">
@@ -145,7 +124,6 @@ Sophie: 07534 023230</p>
 			<ul>
 			<li><a href="#yoga" title="view Iyengar Yoga classes">Iyengar Yoga &amp; Yoga with Ali</a></li>
 			<li><a href="#art" title="view Walbottle Art Group classes">Walbottle Art Group</a></li>
-			<li><a href="#treble" title="view TrebleTime classes">TrebleTime</a></li>
 			<li><a href="#60s" title="view Over 60's Club information">Over 60's Club</a></li>
 			<li><a href="#street_dance" title="view Sophie's Community Street Dance information">Sophie's Community Street Dance</a></li>
 			<li><a href="#pilates" title="view Palates with Julia information">Palates with Julia</a></li>
