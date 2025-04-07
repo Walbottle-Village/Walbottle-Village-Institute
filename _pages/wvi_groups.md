@@ -85,23 +85,6 @@ Sophie: 07534 023230</p>
 				</div>
 			</div>
 			<div class="col-xs-12 eventWrap">
-				<div class="row" id="pilates">
-					<div class="article">
-						<div class="col-sm-4 col-xs-12">
-							<img src="../assets/images/pilates@4x-80.jpg" loading="lazy" alt="Pilates With Julia" class="img-responsive">
-						</div>
-						<div class="col-sm-8 col-xs-12">
-							<h3><strong>Pilates With Julia</strong></h3>
-							<p>Julia is an experienced teacher with a number of classes in the area and we are delighted she has chosen Walbottle village institute for this new class.</p>
-							<p>Classes are suitable for beginners and for people with more experience.</p>
-							<p>Julia always gives modifications to make it easier or harder to suit all abilities.</p>
-							<p><strong>Please contact</strong> <a href="https://www.facebook.com/pilateswithjulia" title="open in a new window" target="blank">Julia via Facebook</a> for more information or to book a place.</p>
-							<p>Please bring a yoga/ Pilates mat and a drink of water.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 eventWrap">
 				<div class="row" id="gentle">
 					<div class="article">
 						<div class="col-sm-4 col-xs-12">
@@ -126,7 +109,7 @@ Sophie: 07534 023230</p>
 			<li><a href="#art" title="view Walbottle Art Group classes">Walbottle Art Group</a></li>
 			<li><a href="#60s" title="view Over 60's Club information">Over 60's Club</a></li>
 			<li><a href="#street_dance" title="view Sophie's Community Street Dance information">Sophie's Community Street Dance</a></li>
-			<li><a href="#pilates" title="view Palates with Julia information">Palates with Julia</a></li>
+			
 			<li><a href="#gentle" title="view Gentle Movement To Music classes">Gentle Movement To Music</a></li>
 			<li><a href="#street_dance" title="view Disney Dance classes">Disney Dance</a></li>
 			</ul>
